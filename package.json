@@ -1,0 +1,11 @@
+{
+  "name": "aoc-2023",
+  "devDependencies": {
+    "@total-typescript/ts-reset": "^0.5.1",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module"
+}
