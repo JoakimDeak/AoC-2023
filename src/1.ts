@@ -1,4 +1,4 @@
-const input = await Bun.file("./inputs/1.txt").text();
+const input = await Bun.file("inputs/1.txt").text();
 
 const part1 = () => {
   const sum = input.split("\n").reduce((sum, line) => {
